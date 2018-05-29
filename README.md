@@ -29,7 +29,7 @@
 
 ## 重点
 * 后端API使用一组固定的缓存搜索结果，并且限制在搜索项的特定集合中，这可以在[SEARCH_TERMS.md](SEARCH_TERMS.md)中找到。
-* 该术语列表是与后端一起使用的唯一术语，因此，如果您对篮子编织或气泡包装的搜索不会以任何结果返回，则不要惊讶。
+* 该术语列表是与后端一起使用的唯一术语，所以，如果您的搜索不会以任何结果返回，也不要惊讶。
 ## create-react-app
 
 * 这个项目有参考[Create React App](https://github.com/facebookincubator/create-react-app)。
